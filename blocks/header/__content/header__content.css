@@ -1,4 +1,4 @@
-.content__header {
+.header__content {
     box-sizing: border-box;
     padding: 0 48px;
     width: 100%;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 568px) {
-    .content__header {
+    .header__content {
         margin-top: 16px;
         padding: 0 16px;        
     }
