@@ -1,0 +1,14 @@
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 735px) {
+    .footer {
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 48px;
+    }
+  }
