@@ -16,4 +16,4 @@
 * Относительные размеры блоков и элементов
 * Трансформации и ховер эффекты
 
-* [Ссылка на проект](https://samoshiny.github.io/russian-travel/)зцв
+[Ссылка на проект](https://samoshiny.github.io/russian-travel/)
