@@ -1,4 +1,4 @@
-.footer__content {
+.box__footer {
     box-sizing: border-box;
     padding: 0 48px;
     width: 100%;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 984px) {
-    .footer__content {
+    .box__footer {
         padding: 0 24px;
     }
   }
 
 @media screen and (max-width: 568px) {
-    .footer__content {
+    .box__footer {
         padding: 0 16px;
     }
   }
