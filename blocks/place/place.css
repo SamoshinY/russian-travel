@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 1124px) {
     .place {
-        gap: 48px 40px;
+        gap: 48px 32px;
     }
   }
 
@@ -20,6 +20,6 @@
 @media screen and (max-width: 626px) {
     .place {
         grid-template-columns: 1fr;
-        gap: 32;
+        row-gap: 32px;
     }
   }
