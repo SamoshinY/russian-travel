@@ -5,10 +5,15 @@
     color: #fff;
     text-decoration: none;
     margin-right: 18px;
+    transition: opacity 0.5s ease;
 }
 
 .footer__link:last-of-type {
     margin-right: 0;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 568px) {
